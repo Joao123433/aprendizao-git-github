@@ -1,0 +1,17 @@
+principais comandos do terminal
+cd - avanca ou retrocede nas pastas
+ls - mostra os arquivos e pastas
+mkdir - cria um novo arquivos 
+touch - cria uma nova pasta
+
+
+
+principais comando do git
+git init - inicializa o git     
+git add - adiciona um arquivo
+git commit -m '' - faz um commit do arquivo
+git status - mostra os status dos arquivos
+git branch - cria um nova branch 
+git pull - pucha os arquivos do github (precisa informar o endereco)
+git push - manda os arquivos pro github 
+git merge - aplica a mudanca feita em uma branch em uma outra expecificada
